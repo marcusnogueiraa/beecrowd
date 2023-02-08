@@ -35,3 +35,7 @@ O repositório tem como objetivo armazenar a resolução dos exercicios e desafi
 <a href="https://www.beecrowd.com.br/judge/pt/profile/641118"><img src="https://pbs.twimg.com/profile_images/1452678635178053646/I0XsDRcl_400x400.jpg" width="80"><a/>
 
 **Dados atualizados em 03/02/2023**
+
+## 📌 Mural de Avisos
+
+**Exercicio 1023:** O exercicio 1023 ainda não está disponível, tentei 3 soluções diferentes para ele mas em todas elas resultam em "Time Limite Exceeded". Isso acontece quando o algoritimo submetido supera o tempo limite de excecução de alguma questão. Fiz 3 versões do algoritimo e cada uma delas deram o mesmo time, 3 segundos (1 acima do aceitado). Ao observar os casos de teste verifiquei que pode haver a possibilidade de um erro.
