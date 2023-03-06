@@ -27,18 +27,14 @@ O repositório tem como objetivo armazenar a resolução dos exercicios e desafi
 ## 🏆 Meu Perfil Beecrowd
 
 **- Nickname:** marcusnogueira <br>
-**- Progresso:** ![](https://geps.dev/progress/1?dangerColor=800000&warningColor=ff9900&successColor=006600) <br>
-**- Pontos:** 160,8198 <br>
-**- Ranking Geral:** 55.580º <br>
-**- Ranking UFC:** 1312º <br>
+**- Progresso:** ![](https://geps.dev/progress/3?dangerColor=800000&warningColor=ff9900&successColor=006600) <br>
+**- Pontos:** 386,3000 <br>
+**- Ranking Geral:** 12.234º <br>
+**- Ranking UFC:** 78º <br>
 
 <a href="https://www.beecrowd.com.br/judge/pt/profile/641118"><img src="https://pbs.twimg.com/profile_images/1452678635178053646/I0XsDRcl_400x400.jpg" width="80"></a>
 
-**Dados atualizados em 03/02/2023**
-
-## 🏅 Melhores Colocações
-
-> **1022 - TDA Racional** 01252º Python 3.9 0.721 (Estruturas e Bibliotecas) <br> **1040 - Média 3** 02143º Python 3.9 0.000 (Iniciante) <br> **1038 - Lanche** 02182º Python 3.9 0.000 (Iniciante) <br>
+**Dados atualizados em 05/03/2023**
 
 ## 📌 Mural de Avisos
 
