@@ -34,8 +34,14 @@ O repositório tem como objetivo armazenar a resolução dos exercicios e desafi
 
 <a href="https://www.beecrowd.com.br/judge/pt/profile/641118"><img src="https://pbs.twimg.com/profile_images/1452678635178053646/I0XsDRcl_400x400.jpg" width="80"></a>
 
+## **Número de Exercicios Resolvidos (Por Linguagem)**
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width='20' height='20'/> **Python** (74 soluções)
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width='20' height='20'/> **Java** (29 soluções)
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width='20' height='20'/> **Ruby** (7 soluções)
+
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width='20' height='20'/> **C** (4 soluções)
+
 **Dados atualizados em 05/03/2023**
-
-## 📌 Mural de Avisos
-
-**Exercicio 1023:** O exercicio 1023 ainda não está disponível, tentei 3 soluções diferentes para ele mas em todas elas resultam em "Time Limite Exceeded". Isso acontece quando o algoritimo submetido supera o tempo limite de excecução de alguma questão. Fiz 3 versões do algoritimo e cada uma delas deram o mesmo time, 3 segundos (1 acima do aceitado). Ao observar os casos de teste verifiquei que pode haver a possibilidade de um erro.
