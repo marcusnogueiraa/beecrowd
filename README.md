@@ -29,8 +29,8 @@ O repositório tem como objetivo armazenar a resolução dos exercicios e desafi
 **- Nickname:** marcusnogueira <br>
 **- Progresso:** ![](https://geps.dev/progress/3?dangerColor=800000&warningColor=ff9900&successColor=006600) <br>
 **- Pontos:** 386,3000 <br>
-**- Ranking Geral:** 12.234º <br>
-**- Ranking UFC:** 78º <br>
+**- Ranking Geral:** 5.520º <br>
+**- Ranking UFC:** 45º <br>
 
 <a href="https://www.beecrowd.com.br/judge/pt/profile/641118"><img src="https://pbs.twimg.com/profile_images/1452678635178053646/I0XsDRcl_400x400.jpg" width="80"></a>
 
