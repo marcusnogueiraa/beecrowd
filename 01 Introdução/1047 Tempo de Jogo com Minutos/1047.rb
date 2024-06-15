@@ -37,4 +37,4 @@ end
 puts "O JOGO DUROU #{horas} HORA(S) E #{minutos} MINUTO(S)"
 
 # https://www.beecrowd.com.br/judge/pt/problems/view/1047
-# Ranking 00076º, Time 0.241, Submiss Date 05/03/2023 17:54:02 (Ruby 2.7)
+# Ranking 00076º, Time 0.241, Submiss Date 05/03/2023 17:54:02 (Ruby)
